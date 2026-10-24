@@ -3,3 +3,4 @@ notebooks/output/*
 .vscode
 *.pyc
 datasets/external/*
+uv.lock
